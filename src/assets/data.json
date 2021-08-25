@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Teatro el Circulo",
+        "geometry": [-32.95246178761895, -60.635323950801364]
+    },
+    {
+        "name": "Sala Lavardén",
+        "geometry": [-32.95155356950801, -60.63923738463527]
+    },
+    {
+        "name": "Teatro Broadway",
+        "geometry": [-32.94376267802656, -60.63828651300109]
+    },
+    {
+        "name": "Auditorio Fundación Astengo",
+        "geometry": [-32.94507715878214, -60.6385439282349]
+    }
+]
